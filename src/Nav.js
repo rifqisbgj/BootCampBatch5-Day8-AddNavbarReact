@@ -49,5 +49,5 @@ const Nav = () => {
     </nav>
   );
 };
-
+// Fungsi Nav akan mengembalikan nilai yang berisi html navbar
 export default Nav;
